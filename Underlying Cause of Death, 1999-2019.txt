@@ -1,0 +1,118 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	85	98682634	0.1
+	"Alaska"	"02"	23	14569726	0.2
+	"Arizona"	"04"	115	130658024	0.1
+	"Arkansas"	"05"	86	60151295	0.1
+	"California"	"06"	299	776337985	0.0
+	"Colorado"	"08"	55	104581601	0.1
+	"Connecticut"	"09"	25	74154436	0.0
+	"Delaware"	"10"	Suppressed	18545432	Suppressed
+	"District of Columbia"	"11"	Suppressed	12923833	Suppressed
+	"Florida"	"12"	247	392032107	0.1
+	"Georgia"	"13"	161	198670995	0.1
+	"Hawaii"	"15"	18	28084286	Unreliable
+	"Idaho"	"16"	47	32067098	0.1
+	"Illinois"	"17"	123	266645950	0.0
+	"Indiana"	"18"	78	134763304	0.1
+	"Iowa"	"19"	51	63697647	0.1
+	"Kansas"	"20"	41	59137736	0.1
+	"Kentucky"	"21"	84	89896925	0.1
+	"Louisiana"	"22"	79	95491059	0.1
+	"Maine"	"23"	20	27696591	0.1
+	"Maryland"	"24"	47	120252834	0.0
+	"Massachusetts"	"25"	36	138027854	0.0
+	"Michigan"	"26"	138	209120484	0.1
+	"Minnesota"	"27"	69	110696994	0.1
+	"Mississippi"	"28"	80	61631773	0.1
+	"Missouri"	"29"	119	124019337	0.1
+	"Montana"	"30"	41	20574410	0.2
+	"Nebraska"	"31"	29	38140443	0.1
+	"Nevada"	"32"	26	54449934	0.0
+	"New Hampshire"	"33"	10	27433817	Unreliable
+	"New Jersey"	"34"	39	183527438	0.0
+	"New Mexico"	"35"	56	41871705	0.1
+	"New York"	"36"	124	406513567	0.0
+	"North Carolina"	"37"	180	195081073	0.1
+	"North Dakota"	"38"	Suppressed	14429518	Suppressed
+	"Ohio"	"39"	161	241915812	0.1
+	"Oklahoma"	"40"	114	77789801	0.1
+	"Oregon"	"41"	47	79673648	0.1
+	"Pennsylvania"	"42"	148	264535246	0.1
+	"Rhode Island"	"44"	Suppressed	22204639	Suppressed
+	"South Carolina"	"45"	81	95461790	0.1
+	"South Dakota"	"46"	22	17043864	0.1
+	"Tennessee"	"47"	170	131259989	0.1
+	"Texas"	"48"	520	519544055	0.1
+	"Utah"	"49"	30	56570520	0.1
+	"Vermont"	"50"	17	13051465	Unreliable
+	"Virginia"	"51"	99	165355953	0.1
+	"Washington"	"53"	84	139875922	0.1
+	"West Virginia"	"54"	60	38383779	0.2
+	"Wisconsin"	"55"	116	118193381	0.1
+	"Wyoming"	"56"	17	11452815	Unreliable
+"Total"			4346	6416872524	0.1
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"ICD-10 Codes: W53 (Bitten by rat); W54 (Bitten or struck by dog); W55 (Bitten or struck by other mammals); W56 (Contact with"
+"marine animal); W57 (Bitten or stung by nonvenomous insect and other nonvenomous arthropods); W58 (Bitten or struck by crocodile"
+"or alligator); W59 (Bitten or crushed by other reptiles); X20 (Contact with venomous snakes and lizards); X21 (Contact with"
+"venomous spiders); X22 (Contact with scorpions); X23 (Contact with hornets, wasps and bees); X24 (Contact with centipedes and"
+"venomous millipedes (tropical)); X25 (Contact with other specified venomous arthropods); X26 (Contact with venomous marine"
+"animals and plants); X27 (Contact with other specified venomous animals); X28 (Contact with other specified venomous plants);"
+"X29 (Contact with unspecified venomous animal or plant)"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Sep 18, 2021 2:21:47 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Sep 18, 2021 2:21:47 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
