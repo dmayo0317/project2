@@ -1,0 +1,8 @@
+drop table if exists Park_Deaths_State;
+
+create table Park_Deaths_State (
+	state char(2),
+	deaths int
+);
+
+select * from PArk_Deaths_State
