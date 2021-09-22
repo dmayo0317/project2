@@ -10,7 +10,7 @@ Our results using the database agree with the article that began our idea. Texas
 
 # Park Data
 
-We still needed a second set of data to merge this set with. We then had the idea to measure the deaths of wildlife attacks, with deaths that occur in National Parks. We found a table from another article online. This time showing the deaths were recorded in state parks from the years 2008 to 2017. We did add an extra line from the article to show what state each park was located in. After adding this data, we broke it down to match the results of the previous established set. We set out to show the total of deaths occurring at each state park and then but them in descending order. Upon this we show the following:
+We still needed a second set of data to merge this set with. We then had the idea to measure the deaths of wildlife attacks, with deaths that occur in National Parks. We found a table from another article online. This time showing the deaths were recorded in state parks from the years 2007 to 2018. We did add an extra line from the article to show what state each park was located in. After adding this data, we broke it down to match the results of the previous established set. We set out to show the total of deaths occurring at each state park and then put them in descending order. Upon this we show the following:
 
 ![Park_Deaths](/images/Park_deaths.PNG)
 
