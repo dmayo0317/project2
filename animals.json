@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "614a802e2906761f27195c74"
+  },
+  "State Abre": "AL",
+  "Deaths from Animals": "85",
+  "Population": "98682634"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c75"
+  },
+  "State Abre": "AK",
+  "Deaths from Animals": "23",
+  "Population": "14569726"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c76"
+  },
+  "State Abre": "AZ",
+  "Deaths from Animals": "115",
+  "Population": "130658024"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c77"
+  },
+  "State Abre": "AR",
+  "Deaths from Animals": "86",
+  "Population": "60151295"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c78"
+  },
+  "State Abre": "CA",
+  "Deaths from Animals": "299",
+  "Population": "776337985"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c79"
+  },
+  "State Abre": "CO",
+  "Deaths from Animals": "55",
+  "Population": "104581601"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7a"
+  },
+  "State Abre": "CT",
+  "Deaths from Animals": "25",
+  "Population": "74154436"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7b"
+  },
+  "State Abre": "DE",
+  "Deaths from Animals": "0",
+  "Population": "18545432"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7c"
+  },
+  "State Abre": "DC",
+  "Deaths from Animals": "0",
+  "Population": "12923833"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7d"
+  },
+  "State Abre": "FL",
+  "Deaths from Animals": "247",
+  "Population": "392032107"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7e"
+  },
+  "State Abre": "GA",
+  "Deaths from Animals": "161",
+  "Population": "198670995"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c7f"
+  },
+  "State Abre": "HI",
+  "Deaths from Animals": "18",
+  "Population": "28084286"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c80"
+  },
+  "State Abre": "ID",
+  "Deaths from Animals": "47",
+  "Population": "32067098"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c81"
+  },
+  "State Abre": "IL",
+  "Deaths from Animals": "123",
+  "Population": "266645950"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c82"
+  },
+  "State Abre": "IN",
+  "Deaths from Animals": "78",
+  "Population": "134763304"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c83"
+  },
+  "State Abre": "IA",
+  "Deaths from Animals": "51",
+  "Population": "63697647"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c84"
+  },
+  "State Abre": "KS",
+  "Deaths from Animals": "41",
+  "Population": "59137736"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c85"
+  },
+  "State Abre": "KY",
+  "Deaths from Animals": "84",
+  "Population": "89896925"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c86"
+  },
+  "State Abre": "LA",
+  "Deaths from Animals": "79",
+  "Population": "95491059"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c87"
+  },
+  "State Abre": "ME",
+  "Deaths from Animals": "20",
+  "Population": "27696591"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c88"
+  },
+  "State Abre": "MD",
+  "Deaths from Animals": "47",
+  "Population": "120252834"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c89"
+  },
+  "State Abre": "MA",
+  "Deaths from Animals": "36",
+  "Population": "138027854"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8a"
+  },
+  "State Abre": "MI",
+  "Deaths from Animals": "138",
+  "Population": "209120484"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8b"
+  },
+  "State Abre": "MN",
+  "Deaths from Animals": "69",
+  "Population": "110696994"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8c"
+  },
+  "State Abre": "MS",
+  "Deaths from Animals": "80",
+  "Population": "61631773"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8d"
+  },
+  "State Abre": "MO",
+  "Deaths from Animals": "119",
+  "Population": "124019337"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8e"
+  },
+  "State Abre": "MT",
+  "Deaths from Animals": "41",
+  "Population": "20574410"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c8f"
+  },
+  "State Abre": "NE",
+  "Deaths from Animals": "29",
+  "Population": "38140443"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c90"
+  },
+  "State Abre": "NV",
+  "Deaths from Animals": "26",
+  "Population": "54449934"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c91"
+  },
+  "State Abre": "NH",
+  "Deaths from Animals": "10",
+  "Population": "27433817"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c92"
+  },
+  "State Abre": "NJ",
+  "Deaths from Animals": "39",
+  "Population": "183527438"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c93"
+  },
+  "State Abre": "NM",
+  "Deaths from Animals": "56",
+  "Population": "41871705"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c94"
+  },
+  "State Abre": "NY",
+  "Deaths from Animals": "124",
+  "Population": "406513567"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c95"
+  },
+  "State Abre": "NC",
+  "Deaths from Animals": "180",
+  "Population": "195081073"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c96"
+  },
+  "State Abre": "ND",
+  "Deaths from Animals": "0",
+  "Population": "14429518"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c97"
+  },
+  "State Abre": "OH",
+  "Deaths from Animals": "161",
+  "Population": "241915812"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c98"
+  },
+  "State Abre": "OK",
+  "Deaths from Animals": "114",
+  "Population": "77789801"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c99"
+  },
+  "State Abre": "OR",
+  "Deaths from Animals": "47",
+  "Population": "79673648"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9a"
+  },
+  "State Abre": "PA",
+  "Deaths from Animals": "148",
+  "Population": "264535246"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9b"
+  },
+  "State Abre": "RI",
+  "Deaths from Animals": "0",
+  "Population": "22204639"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9c"
+  },
+  "State Abre": "SC",
+  "Deaths from Animals": "81",
+  "Population": "95461790"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9d"
+  },
+  "State Abre": "SD",
+  "Deaths from Animals": "22",
+  "Population": "17043864"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9e"
+  },
+  "State Abre": "TN",
+  "Deaths from Animals": "170",
+  "Population": "131259989"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195c9f"
+  },
+  "State Abre": "TX",
+  "Deaths from Animals": "520",
+  "Population": "519544055"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca0"
+  },
+  "State Abre": "UT",
+  "Deaths from Animals": "30",
+  "Population": "56570520"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca1"
+  },
+  "State Abre": "VT",
+  "Deaths from Animals": "17",
+  "Population": "13051465"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca2"
+  },
+  "State Abre": "VA",
+  "Deaths from Animals": "99",
+  "Population": "165355953"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca3"
+  },
+  "State Abre": "WA",
+  "Deaths from Animals": "84",
+  "Population": "139875922"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca4"
+  },
+  "State Abre": "WV",
+  "Deaths from Animals": "60",
+  "Population": "38383779"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca5"
+  },
+  "State Abre": "WI",
+  "Deaths from Animals": "116",
+  "Population": "118193381"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca6"
+  },
+  "State Abre": "WY",
+  "Deaths from Animals": "17",
+  "Population": "11452815"
+},{
+  "_id": {
+    "$oid": "614a802e2906761f27195ca7"
+  },
+  "Deaths from Animals": "4346",
+  "Population": "6416872524"
+}]
