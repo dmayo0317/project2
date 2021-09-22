@@ -14,8 +14,14 @@ We still needed a second set of data to merge this set with. We then had the ide
 
 The most deaths occurred at Lake Mead National Recreation Area located in Nevada. There are a few states that do not have any recorded deaths in state parks from 2008 to 2017, a few states have no reported data. This also shows deaths that were unrelated to wildlife attacks. We now have abase to combine the data though and in it we will see where in the United States, may be a detriment to your well-being
 
+#Combined Data
+
+#Conclusion
+
  # Resources
  
 [Forbes Article]( https://www.forbes.com/sites/breannawilson/2021/09/16/texas-named-the-state-with-the-most-deaths-caused-by-animal-attacks-a-year/?sh=339dc320301e)
+
 [CDC Data]( https://wonder.cdc.gov/deaths-by-underlying-Cause.html)
+
 [National Park Deaths]( https://www.psblaw.com/nevada/deaths-in-us-national-parks/)
