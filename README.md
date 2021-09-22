@@ -14,7 +14,7 @@ We still needed a second set of data to merge this set with. We then had the ide
 
 ![Park_Deaths](/images/Park_deaths.PNG)
 
-The most deaths occurred at Lake Mead National Recreation Area located in Nevada. There are a few states that do not have any recorded deaths in state parks from 2008 to 2017, a few states have no reported data. This also shows deaths that were unrelated to wildlife attacks. We now have abase to combine the data though and in it we will see where in the United States, may be a detriment to your well-being
+The most deaths occurred at Lake Mead National Recreation Area located in Nevada. There are a few states that do not have any recorded deaths in state parks from 2007 to 2018, a few states have no reported data. This also shows deaths that were unrelated to wildlife attacks. We now have abase to combine the data though and in it we will see where in the United States, may be a detriment to your well-being
 
 #Combined Data
 
