@@ -22,7 +22,7 @@ The most deaths occurred at Lake Mead National Recreation Area located in Nevada
 
 Once viewing the information from both data sets it was recognized that the data can be combined to get an overview of the deaths based on a state view and a park level view. Upon combining the data we ran into a couple of difficulties due to the duplicated column titles. As a team, we rename the titles to help those in the future who view this repository understand the information. 
 
-![mongodb](/images/mongodb.PNG)
+![mongodb](/images/mongodb.png)
 
 # Conclusion
 
