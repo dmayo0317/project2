@@ -25,6 +25,8 @@ Once viewing the information from both data sets it was recognized that the data
 ![mongodb](/images/mongodb.png)
 
 # Conclusion
+ 
+Data is in the Database! 
 
 
  # Resources
